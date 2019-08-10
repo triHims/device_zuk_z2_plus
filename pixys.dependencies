@@ -3,7 +3,7 @@
     "remote": "github",
     "repository": "aswin7469/android_kernel_zuk_msm8996",
     "target_path": "kernel/zuk/msm8996",
-    "branch": "pixys-eas"
+    "branch": "pixys-hmp"
   },
   {
     "remote": "github",
@@ -15,7 +15,7 @@
     "remote": "github",
     "repository": "aswin7469/device_zuk_msm8996-common",
     "target_path": "device/zuk/msm8996-common",
-    "branch": "pixys-powerhal"
+    "branch": "pixys"
   },
   {
     "remote": "github",
