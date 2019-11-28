@@ -3,24 +3,18 @@
     "remote": "github",
     "repository": "aswin7469/android_kernel_zuk_msm8996",
     "target_path": "kernel/zuk/msm8996",
-    "branch": "pie-rebase"
+    "branch": "popthecorn-ten"
   },
   {
     "remote": "github",
     "repository": "aswin7469/vendor_zuk",
     "target_path": "vendor/zuk",
-    "branch": "pixys"
+    "branch": "ten"
   },
   {
     "remote": "github",
     "repository": "aswin7469/device_zuk_msm8996-common",
     "target_path": "device/zuk/msm8996-common",
-    "branch": "pixys"
-  },
-  {
-    "remote": "github",
-    "repository": "LineageOS/android_packages_resources_devicesettings", 
-    "target_path": "packages/resources/devicesettings",
-    "branch": "lineage-16.0"
+    "branch": "pixys-ten"
   }
 ]
