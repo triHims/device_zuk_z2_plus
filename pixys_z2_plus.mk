@@ -27,6 +27,8 @@ $(call inherit-product, vendor/pixys/config/common_full_phone.mk)
 PIXYS_BUILD_TYPE=OFFICIAL
 DEVICE_MAINTAINERS="Aswin A S & Nikhil Gohil"
 
+# Boot animation
+TARGET_BOOT_ANIMATION_RES := 1080
 
 # Device identifier. This must come after all inclusions.
 PRODUCT_NAME := pixys_z2_plus
