@@ -25,7 +25,7 @@ $(call inherit-product, vendor/pixys/config/common_full_phone.mk)
 
 # Pixys stuff
 PIXYS_BUILD_TYPE=OFFICIAL
-DEVICE_MAINTAINERS="Aswin A S"
+DEVICE_MAINTAINERS="Aswin A S & Nikhil Gohil"
 
 
 # Device identifier. This must come after all inclusions.
