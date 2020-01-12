@@ -27,6 +27,9 @@ $(call inherit-product, vendor/pixys/config/common_full_phone.mk)
 PIXYS_BUILD_TYPE=OFFICIAL
 DEVICE_MAINTAINERS="Aswin A S & Nikhil Gohil"
 
+# GApps
+TARGET_GAPPS_ARCH := arm64
+
 # Boot animation
 TARGET_BOOT_ANIMATION_RES := 1080
 
