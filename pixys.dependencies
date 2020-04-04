@@ -1,8 +1,20 @@
 [
   {
     "remote": "github",
-    "repository": "LineageOS/android_packages_resources_devicesettings",
-    "target_path": "packages/resources/devicesettings",
-    "branch": "lineage-17.0"
+    "repository": "PixysOS-Devices/kernel_zuk_msm8996",
+    "target_path": "kernel/zuk/msm8996",
+    "branch": "ten"
+  },
+  {
+    "remote": "github",
+    "repository": "PixysOS-Devices/vendor_zuk",
+    "target_path": "vendor/zuk",
+    "branch": "ten"
+  },
+  {
+    "remote": "github",
+    "repository": "PixysOS-Devices/device_zuk_msm8996-common",
+    "target_path": "device/zuk/msm8996-common",
+    "branch": "ten"
   }
 ]
