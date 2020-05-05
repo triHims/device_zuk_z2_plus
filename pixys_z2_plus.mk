@@ -24,7 +24,6 @@ $(call inherit-product, device/zuk/z2_plus/device.mk)
 $(call inherit-product, vendor/pixys/config/common_full_phone.mk)
 
 # Pixys stuff
-PIXYS_BUILD_TYPE=OFFICIAL
 DEVICE_MAINTAINERS="Aswin A S & Nikhil Gohil"
 
 # GApps
@@ -50,6 +49,6 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
     PRIVATE_BUILD_DESC="z2_plus-user 7.0 NRD90M 3.1.117_171110 release-keys"
 
 # Set BUILD_FINGERPRINT variable to be picked up by both system and vendor build.prop
-BUILD_FINGERPRINT := "google/coral/coral:10/QQ2A.200405.005/6254899:user/release-keys"
+BUILD_FINGERPRINT := "google/coral/coral:10/QQ2A.200501.001.A3/6353761:user/release-keys"
 
 TARGET_VENDOR := zuk
