@@ -48,8 +48,8 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
     PRODUCT_NAME="z2_plus"
 
 # Build fingerprint
-BUILD_FINGERPRINT := google/coral/coral:11/RP1A.200720.009/6720564:user/release-keys
-BUILD_DESC := coral-user 10 RP1A.200720.009 6720564 release-keys
+BUILD_FINGERPRINT := google/sunfish/sunfish:11/RP1A.201005.006/6828489:user/release-keys
+BUILD_DESC := sunfish-user 11 RP1A.201005.006 6828489 release-keys
 
 PRODUCT_SYSTEM_DEFAULT_PROPERTIES += \
     ro.build.fingerprint=$(BUILD_FINGERPRINT)
