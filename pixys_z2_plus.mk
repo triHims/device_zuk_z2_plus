@@ -23,9 +23,6 @@ $(call inherit-product, device/zuk/z2_plus/device.mk)
 # Inherit some common PixysOS stuff.
 $(call inherit-product, vendor/pixys/config/common_full_phone.mk)
 
-# Pixys stuff
-DEVICE_MAINTAINERS="Aswin A S & Nikhil Gohil"
-
 # GApps
 TARGET_GAPPS_ARCH := arm64
 
