@@ -16,5 +16,11 @@
     "repository": "PixysOS-Devices/device_zuk_msm8996-common",
     "target_path": "device/zuk/msm8996-common",
     "branch": "eleven"
+  },
+  {
+    "remote": "github",
+    "repository": "LineageOS/android_packages_resources_devicesettings", 
+    "target_path": "packages/resources/devicesettings",
+    "branch": "lineage-18.0"
   }
 ]
