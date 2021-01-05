@@ -46,8 +46,8 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
     PRODUCT_NAME="z2_plus"
 
 # Build fingerprint
-BUILD_FINGERPRINT := google/redfin/redfin:11/RQ1A.201205.010/6953398:user/release-keys
-BUILD_DESCRIPTION := redfin-user 11 RQ1A.201205.010 6953398 release-keys
+BUILD_FINGERPRINT := ZUK/z2_plus/z2_plus:7.0/NRD90M/3.1.117_171110:user/release-keys
+BUILD_DESCRIPTION := z2_plus-user 7.0 NRD90M 3.1.117_171110 release-keys
 
 PRODUCT_SYSTEM_DEFAULT_PROPERTIES += \
     ro.build.fingerprint=$(BUILD_FINGERPRINT)
