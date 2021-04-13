@@ -56,3 +56,6 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
     PRIVATE_BUILD_DESC="$(BUILD_DESCRIPTION)"
 
 TARGET_VENDOR := zuk
+
+#Switch to R hals 
+QCOM_SOONG_NAMESPACE := hardware/qcom-caf/msm8996-r
