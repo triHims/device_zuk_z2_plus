@@ -13,8 +13,9 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/pixys_z2_plus.mk
+    $(LOCAL_DIR)/aosp_z2_plus.mk
 
 COMMON_LUNCH_CHOICES := \
-    pixys_z2_plus-userdebug \
-    pixys_z2_plus-eng
+    aosp_z2_plus-user \
+    aosp_z2_plus-userdebug \
+    aosp_z2_plus-eng
